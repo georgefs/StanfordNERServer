@@ -1,0 +1,16 @@
+*.txt
+*.jar
+*.bat
+*.sh
+*.properties
+*.java
+*.class
+*.out
+build.xml
+ner-gui.command
+META-INF/
+classifiers/
+edu/
+lib/
+org/
+service/
