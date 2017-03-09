@@ -1,2 +1,2 @@
-java -cp . service.endp.NerServicePublisher
+java -cp lib/*:.  service.endp.NerServicePublisher
 
